@@ -14,7 +14,7 @@ Current Courses:
 [Master Microservices With Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 - Want to expose myself to a practical Docker & Kubernetes application using Springboot best practices
 
-Current Projects
+Current Projects :
 Participating in [AI in Action Hackathon](https://ai-in-action.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open&_gl=1*22ntuv*_gcl_au*NTA1MTA2ODMxLjE3NDQ1MjMxODY.*_ga*MTY0ODA5NzAwNS4xNzM2NzQyNjMx*_ga_0YHJK3Y10M*czE3NDg5ODU0ODgkbzI4JGcwJHQxNzQ4OTg1NDg4JGo2MCRsMCRoMA..)
 
 Will Update with More Projects Over the coming weeks
