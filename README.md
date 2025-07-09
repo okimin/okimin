@@ -11,15 +11,15 @@ Current Interests are
 - Upskilling in DSA and System Design
 
 Current Courses:
-[Master Microservices With Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
-- Want to expose myself to a practical Docker & Kubernetes application using Springboot best practices
+- [Master Microservices With Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
+  - Want to expose myself to a practical Docker & Kubernetes application using Springboot best practices
 
 Projects :
 [NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
 
 Open-Source repositories I've made contributions and/or want to highlight :
-[Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
-- Tracks Job Applications in your Gmail account. Join the beta.
+- [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
+  - Tracks Job Applications in your Gmail account. Join the beta.
 <!--
 **okimin/okimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
