@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
-# Created 05/15/25
-# LAST UPDATE: 07/09/25
+### Created 05/15/25
+### LAST UPDATE: 07/09/25
 
 Goal of this github is to showcase my learnings as well as maintain consistency on building new applications.
 
