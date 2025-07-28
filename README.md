@@ -15,8 +15,8 @@ Current Courses:
   - Want to expose myself to a practical Docker & Kubernetes application using Springboot best practices
 
 Projects :
-[NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
-[Super Spoon - AI Chef Assistant](https://github.com/Code-Voyagers-ODSC/code-voyagers)
+- [NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
+- [Super Spoon - AI Chef Assistant](https://github.com/Code-Voyagers-ODSC/code-voyagers)
 
 Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
