@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
 ### Created 05/15/25
-### LAST UPDATE: 07/28/25
+### LAST UPDATE: 09/12/25
 
 Goal of this github is to showcase my learnings as well as maintain consistency on building new applications.
 
@@ -17,6 +17,7 @@ Current Courses:
 Projects :
 - [NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
 - [Super Spoon - AI Chef Assistant](https://github.com/Code-Voyagers-ODSC/code-voyagers)
+- [GKE AI Hackathon](https://github.com/okimin/bank-of-anthos) 
 
 Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
