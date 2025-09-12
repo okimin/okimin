@@ -22,6 +22,13 @@ Projects :
 Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
   - Tracks Job Applications in your Gmail account. Join the beta.
+
+### Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30"/> Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/> React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/> PostgreSQL
 <!--
 **okimin/okimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
