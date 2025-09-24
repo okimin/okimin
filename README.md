@@ -17,7 +17,6 @@ Current Courses:
 Projects :
 - [NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
 - [Super Spoon - AI Chef Assistant](https://github.com/Code-Voyagers-ODSC/code-voyagers)
-- [GKE AI Hackathon | Full Project Be Submitted By 22](https://github.com/okimin/bank-of-anthos) 
 
 Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
