@@ -6,7 +6,7 @@
 Goal of this github is to showcase my learnings as well as maintain consistency on building new applications.
 
 Current Interests are
-- Google Cloud and other cloud technologies
+- Google Cloud, AWS, and Other Cloud Technologies
 - Android Development
 - Upskilling in DSA and System Design
 
