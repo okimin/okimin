@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
 ### Created 05/15/25
-### LAST UPDATE: 09/12/25
+### LAST UPDATE: 10/01/25
 
 Goal of this github is to showcase my learnings as well as maintain consistency on building new applications.
 
@@ -11,8 +11,8 @@ Current Interests are
 - Upskilling in DSA and System Design
 
 Current Courses:
-- [Master Microservices With Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
-  - Want to expose myself to a practical Docker & Kubernetes application using Springboot best practices
+- [Build & Deploy a Production-Ready Patient Management System with Microservices: Java Spring Boot AWS](https://www.youtube.com/watch?v=tseqdcFfTUY&t=36103s)
+  - Need to upskill in integration testing with cloud tools. Instead of doing infrastructure as code in Java, I will utilize Terraform.
 
 Projects :
 - [NYC Apartment Noise Extension](https://github.com/okimin/apt-noise-extension)
@@ -21,6 +21,11 @@ Projects :
 Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
   - Tracks Job Applications in your Gmail account. Join the beta.
+
+Taking Terraform Hashicorp Exam on 10/08.
+
+Current Certifications
+Google Cloud Platform Professional Cloud Architect
 
 ### Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30"/> Java
