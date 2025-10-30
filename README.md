@@ -23,7 +23,7 @@ Open-Source repositories I've made contributions and/or want to highlight :
   - Tracks Job Applications in your Gmail account. Join the beta.
 
 Current Certifications\
-Google Cloud Platform Professional Cloud Architect
+Google Cloud Platform Professional Cloud Architect\
 Terraform
 
 ### Technologies
