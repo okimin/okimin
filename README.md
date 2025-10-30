@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
 ### Created 05/15/25
-### LAST UPDATE: 10/01/25
+### LAST UPDATE: 10/30/25
 
 Goal of this github is to showcase my learnings as well as maintain consistency on building new applications.
 
@@ -22,10 +22,9 @@ Open-Source repositories I've made contributions and/or want to highlight :
 - [Just a Job app](https://github.com/just-a-job-app/jobseeker-analytics)
   - Tracks Job Applications in your Gmail account. Join the beta.
 
-Taking Terraform Hashicorp Exam on 10/08.
-
-Current Certifications
+Current Certifications\
 Google Cloud Platform Professional Cloud Architect
+Terraform
 
 ### Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30"/> Java
